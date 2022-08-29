@@ -1,8 +1,8 @@
 </section>
 <div class="color-bg"></div>
-<script src="assets/bundles/libscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js -->
-<script src="assets/bundles/morphingsearchscripts.bundle.js"></script> <!-- morphing search Js --> 
-<script src="assets/bundles/vendorscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js --> 
+<script src="assets/bundles/libscripts.bundle.js"></script> 
+<script src="assets/bundles/morphingsearchscripts.bundle.js"></script>  
+<script src="assets/bundles/vendorscripts.bundle.js"></script>  
 
 <script src="assets/bundles/datatablescripts.bundle.js"></script><!-- Jquery DataTable Plugin Js -->
 
